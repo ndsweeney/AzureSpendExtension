@@ -3,7 +3,7 @@ Edge Extension for retrieving Azure spend so you don't have to go to the portal
 
 The Azure Spend Tracker is a Microsoft Edge browser extension designed to help users monitor and manage their Azure cloud spending directly from the browser. It provides real-time insights into your Azure costs, enabling you to stay informed about your spending patterns and identify opportunities for cost optimisation without needing to log into the Azure Portal.
 
-Key Features
+**Key Features**
 Current Azure Spend Display
 
 Actual Spend to Date: Shows your actual Azure spending up to the current date within the billing cycle.
