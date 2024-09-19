@@ -7,9 +7,9 @@ The Azure Spend Tracker is a Microsoft Edge browser extension designed to help u
 
 1. Current Azure Spend Display
 
-**Actual Spend to Date:** Shows your actual Azure spending up to the current date within the billing cycle.
+  - Actual Spend to Date: Shows your actual Azure spending up to the current date within the billing cycle.
 
-**Average Daily Spend: **Calculates and displays the average daily spend based on the spending so far in the current month.
+  - Average Daily Spend: Calculates and displays the average daily spend based on the spending so far in the current month.
 
 2. Forecasted Monthly Spend
 
