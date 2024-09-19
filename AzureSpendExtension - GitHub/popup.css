@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 300px;
+  padding: 10px;
+}
+#spend, #recommendations {
+  margin-bottom: 15px;
+}
+#spend p, #recommendations li {
+  margin: 5px 0;
+}
+#recommendations strong {
+  font-size: 14px;
+}
+h3 {
+  margin-top: 15px;
+}
+ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+  

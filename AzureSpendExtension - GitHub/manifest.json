@@ -1,0 +1,22 @@
+{
+    "manifest_version": 3,
+    "name": "Azure Spend Tracker",
+    "version": "1.0",
+    "description": "Displays current Azure spend in a popup.",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icons/icon16.png",
+        "32": "icons/icon32.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+      }
+    },
+    "permissions": ["identity", "storage"],
+    "host_permissions": ["https://management.azure.com/*"],
+    "oauth2": {
+      "client_id": "<APPIDHERE>", 
+      "scopes": ["user.read", "https://management.azure.com/user_impersonation"]
+    }
+  }
+  

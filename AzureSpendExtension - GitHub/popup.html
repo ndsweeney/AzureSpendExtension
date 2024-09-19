@@ -1,0 +1,28 @@
+<!--
+        This HTML file represents the popup window for the Azure Spend Tracker extension.
+        It displays the current Azure spend and provides forecasting functionality for certain accounts.
+-->
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Azure Spend Tracker</title>
+    <!-- Include css file here -->
+    <link rel="stylesheet" href="popup.css">
+    <!-- Include auth.js here -->
+    <script src="auth.js"></script>
+</head>
+<body>
+    <!-- <div id="subscription-selector">
+        <label for="subscription-select">Select Subscription:</label>
+        <select id="subscription-select">
+          <option value="">Loading subscriptions...</option>
+        </select>
+    </div>-->
+    <h2>Current Azure Spend</h2>
+    <p>Forecasting will only work with certain accounts as per <a href="https://learn.microsoft.com/en-us/rest/api/consumption/?view=rest-consumption-2024-08-01#list-of-unsupported-subscription-types">the API documentation</a></a></p>
+    <div id="spend">Loading spend data & Advisor Recommendations if applicable</div>
+    <!-- Include popup.js after auth.js -->
+    <script src="popup.js"></script>
+</body>
+</html>
