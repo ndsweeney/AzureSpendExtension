@@ -41,3 +41,5 @@ Forecasted Monthly Spend
 - Tidy up the code
 - Choose your subscription
 - Further Cost Information
+
+https://github.com/ndsweeney/AzureSpendExtension/blob/main/Images/OutputExample.png
