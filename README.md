@@ -42,4 +42,4 @@ Forecasted Monthly Spend
 - Choose your subscription
 - Further Cost Information
 
-https://github.com/ndsweeney/AzureSpendExtension/blob/main/Images/OutputExample.png
+![alt text](https://github.com/ndsweeney/AzureSpendExtension/blob/main/Images/OutputExample.png)
