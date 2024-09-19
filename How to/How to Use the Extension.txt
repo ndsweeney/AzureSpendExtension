@@ -1,1 +1,4 @@
 How to use the extension
+
+I need to update this as you need to register an app and make sure the users have the correct permissions
+
