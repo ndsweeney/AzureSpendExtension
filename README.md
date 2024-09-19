@@ -13,9 +13,9 @@ The Azure Spend Tracker is a Microsoft Edge browser extension designed to help u
 
 2. Forecasted Monthly Spend
 
-**Total Expected Monthly Spend: **Estimates your total Azure spending for the current month by combining actual spend to date with forecasted spend.
+  Total Expected Monthly Spend: Estimates your total Azure spending for the current month by combining actual spend to date with forecasted spend.
 
-**Forecasted Spend: **Provides an estimation of future spending based on current usage patterns.
+  Forecasted Spend: Provides an estimation of future spending based on current usage patterns.
 
 3. Previous Month's Total Cost
 
@@ -31,7 +31,7 @@ The Azure Spend Tracker is a Microsoft Edge browser extension designed to help u
 **Cost-Saving Suggestions:** Retrieves and displays personalized recommendations from Azure Advisor to help reduce costs.
 **Actionable Insights:** Includes potential savings amounts and solutions to optimize resource usage.
 
-##User-Friendly Interface
+6. User-Friendly Interface
 
 **Quick Access: **Accessible via an icon in the browser toolbar, providing immediate spending information at a glance.
 **Clean Design: **The popup interface is designed for clarity and ease of use, with organized sections and readable fonts.
