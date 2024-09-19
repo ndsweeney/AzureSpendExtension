@@ -1,0 +1,9 @@
+How to use the extension
+
+1. Setup a user that has the correct permissions
+2. Register an app and give it the correct permissions
+3. Download the Azure Spend extension
+4. Enable Developer mode in Edge
+5. Use it
+
+I will be updating this as time goes on over the winter once I have some feedback about what people would like to see.
