@@ -35,3 +35,9 @@ Forecasted Monthly Spend
 
 - **Total Expected Monthly Spend:** Estimates your total Azure spending for the current month by combining actual spend to date with forecasted spend.
 - **Forecasted Spend:** Provides an estimation of future spending based on current usage patterns.
+
+## Future Development
+
+- Tidy up the code
+- Choose your subscription
+- Further Cost Information
